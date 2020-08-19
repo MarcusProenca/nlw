@@ -1,2 +1,3 @@
 # nlw
-projeto feito na NLW #2 rocketseat. website Proffy
+projeto feito em JavaScript na NLW #2 rocketseat. website Proffy
+
